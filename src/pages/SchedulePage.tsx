@@ -83,7 +83,7 @@ export const SchedulePage: React.FC<SchedulePageProps> = ({ onBookSession }) => 
 
       {/* Quick Footnote */}
       <div className="text-xs text-neutral-400 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
-        <span>Open Gym floor is accessible during all operating hours (5:30 AM – 10:00 PM).</span>
+        <span>Open Gym floor is accessible during all operating hours (5:00 AM – 10:00 PM).</span>
         <span className="text-amber-400">Lockers and shower rooms provided.</span>
       </div>
     </div>

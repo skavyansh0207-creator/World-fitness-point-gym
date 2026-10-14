@@ -21,7 +21,7 @@ export const GYM_DETAILS = {
   googleMapsUrl:
     'https://www.google.com/maps/search/?api=1&query=SCO+26+PUDA+complex+Ladowali+Rd+Near+Alaska+Chowk+Jalandhar+Punjab+144001',
   timings: {
-    weekdays: 'Mon – Sat: 5:30 AM – 10:00 PM',
+    weekdays: 'Mon – Sat: 5:00 AM – 10:00 PM',
     sunday: 'Sunday: 7:00 AM – 1:00 PM'
   }
 };
@@ -94,7 +94,7 @@ export const SERVICES_LIST: ServiceSummary[] = [
 ];
 
 export const BATCH_SCHEDULE = [
-  { time: '5:30 AM – 6:30 AM', name: 'Sunrise HIIT & Cardio', tag: 'Morning Batch' },
+  { time: '5:00 AM – 6:30 AM', name: 'Sunrise HIIT & Cardio', tag: 'Morning Batch' },
   { time: '6:30 AM – 8:00 AM', name: 'Strength & Hypertrophy', tag: 'Morning Batch' },
   { time: '8:00 AM – 9:00 AM', name: 'Aerobics & Rhythm Cardio', tag: 'Morning Batch' },
   { time: '9:00 AM – 10:30 AM', name: 'Shoulder & Joint Mobility', tag: 'Morning Batch' },

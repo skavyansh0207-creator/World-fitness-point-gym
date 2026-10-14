@@ -71,7 +71,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate, onOpenBooking })
             <div className="text-neutral-400 mt-0.5">238+ Google Reviews</div>
           </div>
           <div>
-            <div className="font-display text-2xl font-bold font-mono text-white tabular-nums">5:30 AM</div>
+            <div className="font-display text-2xl font-bold font-mono text-white tabular-nums">5:00 AM</div>
             <div className="text-neutral-400 mt-0.5">Early Morning Batches</div>
           </div>
           <div>

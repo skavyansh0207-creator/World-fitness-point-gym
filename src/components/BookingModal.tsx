@@ -186,7 +186,7 @@ Please let me know when I can visit the PUDA Complex gym!`
                   onChange={(e) => setTimePreference(e.target.value)}
                   className="w-full bg-neutral-900 border border-neutral-800 rounded-lg px-3.5 py-2.5 text-sm text-neutral-100 focus:outline-none focus:border-amber-500"
                 >
-                  <option value="Early Morning (5:30 AM – 7:30 AM)">Early Morning (5:30 AM – 7:30 AM)</option>
+                  <option value="Early Morning (5:00 AM – 7:30 AM)">Early Morning (5:00 AM – 7:30 AM)</option>
                   <option value="Morning (7:30 AM – 10:00 AM)">Morning (7:30 AM – 10:00 AM)</option>
                   <option value="Afternoon (11:00 AM – 3:00 PM)">Afternoon (11:00 AM – 3:00 PM)</option>
                   <option value="Evening (5:00 PM – 7:30 PM)">Evening (5:00 PM – 7:30 PM)</option>

@@ -114,7 +114,7 @@ Please confirm timing for SCO 26 PUDA Complex.`
             <div className="space-y-1.5 text-xs">
               <div className="flex justify-between py-1 border-b border-neutral-800/80">
                 <span className="text-neutral-400">Monday – Saturday:</span>
-                <span className="text-white font-mono font-medium">5:30 AM – 10:00 PM</span>
+                <span className="text-white font-mono font-medium">5:00 AM – 10:00 PM</span>
               </div>
               <div className="flex justify-between py-1">
                 <span className="text-neutral-400">Sunday:</span>
